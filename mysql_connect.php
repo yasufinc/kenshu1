@@ -1,5 +1,7 @@
 <?php
 
+//test
+
   $dsn = 'mysql:host=127.0.0.1;dbname=finc_intern_final_1;charset=utf8mb4';
 
   try {
